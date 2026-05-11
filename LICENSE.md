@@ -1,4 +1,4 @@
-# 
+# ultimate KeePassXC for macOS Helper | password-generator + secure-backup offers the most advanced KeePassXC for macOS helper, with password-generator and secure-backup. Ideal for
 
 
 
